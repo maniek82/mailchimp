@@ -63,7 +63,6 @@ header.startup h1 {
 .move-button {
 display:flex;
 justify-content: center;
-transform: translateX(-2rem);
 }
 /* #mc_embed_signup{
    clear:left; font:14px Helvetica,Arial,sans-serif;
